@@ -1,14 +1,11 @@
 # Project Name
-Pharmacy Unit Tests
+> Pharmacy Unit Tests
 
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Features](#features)
 * [Status](#status)
-* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## General info
@@ -27,7 +24,6 @@ Need any IDE to open and run C# console program
 
 ## Status
 Project is: finished
-
 
 
 ## Contact
